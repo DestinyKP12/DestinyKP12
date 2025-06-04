@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @DestinyKP12
+- 👋 Hi, I’m Ziyad Alsoudani
 - 👀 I’m interested in Computer Science/Software Engineering and always ready to learn more everyday about AI and Machine learning.
 - 🌱 I’m currently learning Computer Network and Operating Systems this summer!
 - 💞️ I’m looking to collaborate on "learning Python, learning HTML, QTL, etc.
